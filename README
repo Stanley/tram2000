@@ -1,0 +1,8 @@
+= Tram2000
+
+This project contains of:
+* "tram2000-rhodes":http://github.com/Stanley/tram2000-rhodes - Mobile app which gathers all the necessary information
+* "tram2000-rhosync":http://github.com/Stanley/tram2000-rhosync - Web server which synchronizes backend & frontend data
+* tram2000-web - Webpage where people can see all statistics (doesn't exist yet)
+
+Please refere to "wiki":http://wiki.github.com/Stanley/tram2000 for more informations.
